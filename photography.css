@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.service{
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.about h2{
+    color: aliceblue;
+    text-align: center;
+}
+.about p{
+    color: aliceblue;
+    text-align: center;
+}
+.contact{
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+form{
+    color: aliceblue;
+}
